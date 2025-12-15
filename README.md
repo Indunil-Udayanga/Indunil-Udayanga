@@ -1,4 +1,13 @@
-## Hi there 👋
+##  Hi, I'm Indunil
+
+ Learning Python & AI  
+ Goal: AI Engineer  
+
+## 🧠 Python Projects
+- 🪨 [Rock Paper Scissors Game](https://github.com/Indunil-Udayanga/rock-paper-scissors-python)
+
+More projects coming soon ...
+
 
 <!--
 **Indunil-Udayanga/Indunil-Udayanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
