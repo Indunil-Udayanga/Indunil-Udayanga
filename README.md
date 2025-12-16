@@ -5,6 +5,7 @@
 
 ## 🧠 Python Projects
 - 🪨 [Rock Paper Scissors Game](https://github.com/Indunil-Udayanga/rock-paper-scissors-python)
+-🔢 [Number Guessing Game](https://github.com/Indunil-Udayanga/number-guessing-game) 
 
 More projects coming soon ...
 
