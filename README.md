@@ -1,29 +1,38 @@
-# 👋 Hi, I'm Indunil Udayanga
+# Hi there 👋 I'm Indunil Udayanga
 
-## 👨‍💻 About Me
-I am a **Computer Science undergraduate** with a strong interest in programming, data, and artificial intelligence.  
-I am an **aspiring AI Engineer**, currently building a strong foundation in software development, machine learning, and deep learning through hands-on projects and continuous learning.
+🎓 **Undergraduate Computer Science Student**  
+🤖 **Aspiring AI Engineer**  
+🌱 Currently learning **Machine Learning & Deep Learning**
 
-I enjoy solving problems, experimenting with code, and turning ideas into small working projects.
+---
 
-## 🚀 Career Aspiration
-I aspire to become a skilled **AI / Machine Learning Engineer**, working on real-world applications that create meaningful impact using data and intelligent systems.
+## 🚀 About Me
+- 🎓 Undergraduate CS student with a strong interest in **Artificial Intelligence**
+- 🧠 Learning **Machine Learning & Deep Learning** at beginner level
+- 💻 Passionate about building projects to improve problem-solving skills
+- 🎯 Career goal: Become a skilled and impactful **AI Engineer**
 
-## 🛠️ Technical Skills
-- **Python**
-- **Java**
-- **HTML & CSS**
-- **SQL**
+---
+
+## 🛠️ Skills & Technologies
+
+### 👨‍💻 Programming Languages
+- 🐍 **Python**
+- ☕ **Java**
+- 🗄️ **SQL**
+- 🌐 **HTML & CSS**
+
+### 🤖 AI & Data
 - Machine Learning fundamentals
 - **Deep Learning (Beginner)**
-- Data Analysis (NumPy, Pandas)
-- Data Visualization (Matplotlib, Seaborn)
-- Git & GitHub
+- Data Analysis (**NumPy, Pandas**)
+- Data Visualization (**Matplotlib, Seaborn**)
+- Model training basics
 
-## 📂 Projects
-- Python mini projects  
-- Machine Learning practice projects  
-- Data analysis experiments  
+### 🧰 Tools & Platforms
+- **Git & GitHub**
+
+---
 
 ## 🌱 Currently Learning
 - Machine Learning algorithms  
@@ -31,5 +40,20 @@ I aspire to become a skilled **AI / Machine Learning Engineer**, working on real
 - Model training & evaluation techniques  
 - Flask for backend development  
 
-## 📫 Contact
-- GitHub: https://github.com/Indunil-Udayanga
+---
+
+## 📂 Projects
+- 🔹 Beginner Python projects  
+- 🔹 Machine Learning practice notebooks  
+- 🔹 Mini academic and self-learning projects  
+
+👉 *More projects coming soon…*
+
+---
+
+## 📫 Connect With Me
+- GitHub: [https://github.com/Indunil-Udayanga](https://github.com/Indunil-Udayanga)
+
+---
+
+⭐ *Feel free to explore my repositories and follow my learning journey!*
