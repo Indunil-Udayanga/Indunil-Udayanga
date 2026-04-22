@@ -53,6 +53,7 @@
 
 ## 📫 Connect With Me
 - GitHub: [https://github.com/Indunil-Udayanga](https://github.com/Indunil-Udayanga)
+- email: [indunilexm2022@gmail.com](indunilexm2022@gmail.com)
 
 ---
 
