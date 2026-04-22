@@ -17,10 +17,13 @@
 ## 🛠️ Skills & Technologies
 
 ### 👨‍💻 Programming Languages
-- 🐍 **Python**
-- ☕ **Java**
-- 🗄️ **SQL**
-- 🌐 **HTML & CSS**
+- **Python**
+- **Flask (Python Web Framework)**
+- **Java**
+- **SQL**
+- **HTML & CSS**
+- **php**
+- **c**
 
 ### 🤖 AI & Data
 - Machine Learning fundamentals
