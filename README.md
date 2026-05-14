@@ -1,63 +1,35 @@
-# Hi there 👋 I'm Indunil Udayanga
+# 👋 Hi, I'm Indunil Udayanga
 
-🎓 **Undergraduate Computer Science Student**  
-🤖 **Aspiring AI Engineer**  
-🌱 Currently learning **Machine Learning & Deep Learning**
+🎓 Computer Science Undergraduate | 🤖 Aspiring AI Engineer
 
 ---
 
 ## 🚀 About Me
-- 🎓 Undergraduate CS student with a strong interest in **Artificial Intelligence**
-- 🧠 Learning **Machine Learning & Deep Learning** at beginner level
-- 💻 Passionate about building projects to improve problem-solving skills
-- 🎯 Career goal: Become a skilled and impactful **AI Engineer**
+
+I am a Computer Science undergraduate with a strong interest in **Artificial Intelligence**, currently building a solid foundation in **Machine Learning and Deep Learning**. I enjoy developing practical projects that apply data-driven techniques to real-world problems.
+
+My goal is to grow into a skilled **AI Engineer** capable of delivering impactful, scalable solutions.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills
 
-### 👨‍💻 Programming Languages
-- **Python**
-- **Flask (Python Web Framework)**
-- **Java**
-- **SQL**
-- **HTML & CSS**
-- **php**
-- **c**
+**Programming:**
+Python · Java · SQL · C · PHP · HTML & CSS
 
-### 🤖 AI & Data
-- Machine Learning fundamentals
-- **Deep Learning (Beginner)**
-- Data Analysis (**NumPy, Pandas**)
-- Data Visualization (**Matplotlib, Seaborn**)
-- Model training basics
+**AI & Data:**
+Machine Learning · Deep Learning (Beginner)
+NumPy · Pandas · Matplotlib · Seaborn
 
-### 🧰 Tools & Platforms
-- **Git & GitHub**
+**Frameworks & Tools:**
+Flask · Git · GitHub
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/Indunil-Udayanga
+* Email: [indunilexm2022@gmail.com](mailto:indunilexm2022@gmail.com)
 
 ---
 
-## 🌱 Currently Learning
-- Machine Learning algorithms  
-- Deep Learning basics  
-- Model training & evaluation techniques  
-- Flask for backend development  
-
----
-
-## 📂 Projects
-- 🔹 Beginner Python projects  
-- 🔹 Machine Learning practice notebooks  
-- 🔹 Mini academic and self-learning projects  
-
-👉 *More projects coming soon…*
-
----
-
-## 📫 Connect With Me
-- GitHub: [https://github.com/Indunil-Udayanga](https://github.com/Indunil-Udayanga)
-- email: [indunilexm2022@gmail.com](indunilexm2022@gmail.com)
-
----
-
-⭐ *Feel free to explore my repositories and follow my learning journey!*
+⭐ *Open to internships, collaborations, and learning opportunities in AI/ML.*
