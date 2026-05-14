@@ -1,36 +1,34 @@
 # 👋 Hi, I'm Indunil Udayanga
 
-🎓 Computer Science Undergraduate
+## 👨‍💻 About Me
+
+🎓 Computer Science Undergraduate |
 🤖 Aspiring AI Engineer
 
 ---
-
-## 👨‍💻 About Me
-
-I am a Computer Science undergraduate passionate about **Artificial Intelligence**, currently building a strong foundation in **Machine Learning and Deep Learning**.
-
-I focus on developing **practical, real-world applications** using data and intelligent systems.
-
-🎯 Goal: To become an AI Engineer who builds scalable and impactful solutions.
-
----
-
 ## 🛠️ Skills
 
 **Programming:**
-
-* **Python** - **Java** - **SQL** - **C** - **PHP** - **HTML & CSS**
+• **Python**
+• **Java**
+• **SQL**
+• **C**
+• **PHP**
+• **HTML & CSS**
 
 **AI & Data:**
-
-* **Machine Learning** - **Deep Learning (Beginner)**
-* **NumPy** - **Pandas** - **Matplotlib** - **Seaborn**
+• **Machine Learning**
+• **Deep Learning (Beginner)**
+• **NumPy**
+• **Pandas**
+• **Matplotlib**
+• **Seaborn**
 
 **Frameworks & Tools:**
+• **Flask (Python Web Framework)**
+• **Git**
+• **GitHub**
 
-* **Flask (Python Web Framework)** - **Git** - **GitHub**
-
----
 
 ## 📌 Highlight
 
