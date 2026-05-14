@@ -5,8 +5,6 @@
 🎓 Computer Science Undergraduate
 🤖 Aspiring AI Engineer
 
----
-
 ## 🛠️ Skills
 
 **Programming:**
@@ -30,19 +28,15 @@
 • **Git**
 • **GitHub**
 
----
-
 ## 📌 Highlight
 
 👉 Explore my repositories for hands-on projects in Machine Learning and AI
 
----
 
 ## 📫 Contact
 
 * GitHub: https://github.com/Indunil-Udayanga
 * Email: [indunilexm2022@gmail.com](mailto:indunilexm2022@gmail.com)
 
----
 
 ⭐ *Open to internships, collaborations, and opportunities in AI/ML.*
