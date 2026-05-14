@@ -2,10 +2,11 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Undergraduate |
+🎓 Computer Science Undergraduate
 🤖 Aspiring AI Engineer
 
 ---
+
 ## 🛠️ Skills
 
 **Programming:**
@@ -29,6 +30,7 @@
 • **Git**
 • **GitHub**
 
+---
 
 ## 📌 Highlight
 
